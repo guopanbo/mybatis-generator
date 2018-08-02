@@ -47,6 +47,7 @@
         </javaClientGenerator>
         <!-- 指定数据库表 -->
         <table schema="" tableName="area" domainObjectName="Area" enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"></table>
+        <table schema="" tableName="error_log" domainObjectName="ErrorLog" enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"></table>
 
     </context>
 </generatorConfiguration>
